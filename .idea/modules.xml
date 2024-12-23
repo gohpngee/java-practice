@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract Class Animals practice/Abstract Class Animals practice.iml" filepath="$PROJECT_DIR$/Abstract Class Animals practice/Abstract Class Animals practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Encapsulation_Practice/Encapsulation_Practice.iml" filepath="$PROJECT_DIR$/Encapsulation_Practice/Encapsulation_Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" filepath="$PROJECT_DIR$/Exception_Handling/Exception_Handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number_Guessing_Game/Number_Guessing_Game.iml" filepath="$PROJECT_DIR$/Number_Guessing_Game/Number_Guessing_Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome/Palindrome.iml" filepath="$PROJECT_DIR$/Palindrome/Palindrome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse_String/Reverse_String.iml" filepath="$PROJECT_DIR$/Reverse_String/Reverse_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ft_Fibonacci/ft_Fibonacci.iml" filepath="$PROJECT_DIR$/ft_Fibonacci/ft_Fibonacci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ft_Prime_Numbers/ft_Prime_Numbers.iml" filepath="$PROJECT_DIR$/ft_Prime_Numbers/ft_Prime_Numbers.iml" />
+    </modules>
+  </component>
+</project>
